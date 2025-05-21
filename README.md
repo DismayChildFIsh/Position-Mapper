@@ -35,8 +35,8 @@
 ## インストール
 ```Bash
 
-git clone [このリポジトリのURL]
-cd [リポジトリ名]
+git clone [[このリポジトリのURL]](https://github.com/DismayChildFIsh/Position-Mapper)
+cd Position-Mapper
 npm install
 npm start
 ```
