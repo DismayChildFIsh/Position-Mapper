@@ -38,7 +38,7 @@
 git clone https://github.com/DismayChildFIsh/Position-Mapper
 cd Position-Mapper
 npm install
-npm start
+npm run dev
 ```
 
 ## ライセンス
